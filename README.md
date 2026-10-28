@@ -4,7 +4,7 @@ Repositorio público de descargas de TrainHub. El código fuente se mantiene pri
 
 ## Estado
 
-La versión 1.3.1 está en preparación. Todavía no hay una APK 1.3.1 publicada: faltan la firma de distribución y la verificación de los recorridos en el emulador Android 16. No se distribuyen compilaciones sin firmar.
+La versión 1.3.1 está en preparación. Todavía no hay una APK 1.3.1 publicada: la APK ya está firmada y su certificado y checksum están verificados, pero falta ejecutar los recorridos en el emulador Android 16. No se distribuyen compilaciones sin firmar.
 
 Las descargas estarán en [Releases](https://github.com/CarlesGdigital/trainhub-android/releases). La primera entrega se publicará como versión preliminar; las pruebas en teléfono físico, reloj y funcionamiento prolongado en segundo plano quedarán pendientes.
 
@@ -31,3 +31,4 @@ Health Connect requiere una versión compatible de Android y permisos de lectura
 - Sitio: https://entrenar.carlesgregori.com
 
 Este repositorio no contiene credenciales, datos de usuarios ni copias del código privado.
+
